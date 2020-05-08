@@ -1,3 +1,17 @@
+# Task App
+
+### demo [here](https://raaul007.github.io/task-app/)
+
+### Create-React-App exercise
+
+## Tech stack:
+
+- HTML, CSS, RWD,
+- JavaScript ES6,
+- Bootstrap 4,
+- React / JSX,
+- NPM.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
