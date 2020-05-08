@@ -1,6 +1,6 @@
 # Task App
 
-### demo [here](https://raaul007.github.io/task-app/)
+### demo [here](https://pawel-chmiel.github.io/task-app/)
 
 ### Create-React-App exercise
 
